@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/taniareact.git/static/css/main.e4269831.chunk.css",
+    "main.js": "/taniareact.git/static/js/main.2b019598.chunk.js",
+    "main.js.map": "/taniareact.git/static/js/main.2b019598.chunk.js.map",
+    "runtime-main.js": "/taniareact.git/static/js/runtime-main.d101f8bd.js",
+    "runtime-main.js.map": "/taniareact.git/static/js/runtime-main.d101f8bd.js.map",
+    "static/js/2.d9cf766e.chunk.js": "/taniareact.git/static/js/2.d9cf766e.chunk.js",
+    "static/js/2.d9cf766e.chunk.js.map": "/taniareact.git/static/js/2.d9cf766e.chunk.js.map",
+    "index.html": "/taniareact.git/index.html",
+    "static/css/main.e4269831.chunk.css.map": "/taniareact.git/static/css/main.e4269831.chunk.css.map",
+    "static/js/2.d9cf766e.chunk.js.LICENSE.txt": "/taniareact.git/static/js/2.d9cf766e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d101f8bd.js",
+    "static/js/2.d9cf766e.chunk.js",
+    "static/css/main.e4269831.chunk.css",
+    "static/js/main.2b019598.chunk.js"
+  ]
+}
